@@ -32,9 +32,22 @@
     > Inline Level Elements
 
 
+    ?? NEW ??
+
+    > Container Tag ( <open> </open>)
+    > Self Closing Tag ( <open> )
+
+    > File Path
+      (./) form here 
+      (../) back one step
+      > Images
+        (src [Local / link])
+        (alt [Disription])
+        (width / height)
+      > Seprated Files (css / js)
 
 
-  ** HTML Elements **
+** HTML Elements **
    01- html
    02- head
    03- body
@@ -48,6 +61,25 @@
    11- hr
    12- br
    13- <Comment>
+ 
+   14- img (src)
+   15- a (href)
+   16- ol (Orderd List)
+   17- ul (Unorderd List)
+   18- li (List Item)
 
 
 
+
+
+
+// Assignment #1 //
+1- Create a structure of a web page (in one file)
+
+2- Include main Texture (Headign + Paragraph)
+
+3- Include Images with okay sizes
+
+4- Create a List with your favorite Food / anything
+
+5- Create a Link (Enjoy) with what you want...
