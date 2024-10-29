@@ -48,25 +48,43 @@
 
 
 ** HTML Elements **
-   01- html
-   02- head
-   03- body
-   04- meta (charset / viewport)
-   05- title
-   06- h1 : h6
-   07- p
-   08- span - inline
-   09- u - inline
-   10- b - inline
-   11- hr
-   12- br
-   13- <Comment>
- 
-   14- img (src)
-   15- a (href)
-   16- ol (Orderd List)
-   17- ul (Unorderd List)
-   18- li (List Item)
+
+  (Semantic Elements / Non-Semantic Elements)
+
+  01- html
+  02- head
+  03- body
+  04- meta (charset / viewport)
+  05- title
+  06- h1 : h6
+  07- p
+  08- span - inline
+  09- u - inline
+  10- b - inline
+  11- hr
+  12- br
+  13- <Comment>
+
+  14- img (src)
+  15- a (href) {URL / file path / element}
+  16- ol (Orderd List)
+  17- ul (Unorderd List)
+  18- li (List Item)
+  19- i (Italic)
+  20- table
+  21- tr (Table Row)
+  22- th
+  23- td
+
+** HTML Elements Attributes **
+  1- src
+  2- alt
+  3- width
+  4- href
+  5- target
+  6- border
+  7- cellpadding
+  8- cellspacing
 
 
 
@@ -83,3 +101,14 @@
 4- Create a List with your favorite Food / anything
 
 5- Create a Link (Enjoy) with what you want...
+
+
+
+
+/* Task 2 */
+# Compine what you learn in HTML 
+    Using Unreapeated Elements 
+    to Create a Simple Page
+
+/* Task 3 */
+# Simple Table
